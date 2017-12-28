@@ -4,3 +4,5 @@ class Person
     @job = job
   end
 end
+
+beyonce = Person.new("beyonce")
